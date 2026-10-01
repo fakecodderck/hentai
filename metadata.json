@@ -1,0 +1,6 @@
+{
+  "name": "TelePost - Website to Telegram Post Sender",
+  "description": "Extract titles, thumbnails, and episode links from any website and publish beautifully formatted posts with inline keyboard buttons to Telegram channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
